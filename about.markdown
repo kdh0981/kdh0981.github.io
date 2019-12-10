@@ -6,8 +6,8 @@ permalink: /about/
 
 REST API 만드는 것을 좋아하는 5년차 Java Web 개발자입니다.
 =========
-> skill: Springboot, Java, JPA/Hibernate, Jenkins, Docker, ElasticSearch, Grafana
-> cooperation-tool: bitbucket, jira, slack
+> **skill-set**: Springboot, Java, JPA/Hibernate, Jenkins, Docker, ElasticSearch, Grafana  
+> **cooperation-tool**: bitbucket, jira, slack
 
 제목2
 ---------
