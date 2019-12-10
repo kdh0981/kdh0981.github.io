@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 <!-- 
-	제목: 문자열
-	     ======
+	제목: # (h1)
+	     ## (h2)
+	     ### (h3)
+	     
 	강조: ** 문자열 **
 	
 	인용구: > 문자열
@@ -23,8 +25,8 @@ permalink: /about/
 	           2. 문자열
 	
 -->
-REST API 만들기를 좋아하는 5년차 Java Web 개발자입니다.
-======
+## REST API 만들기를 좋아하는 5년차 Java Web 개발자입니다.
+
 
 
 SI업계에서 Front/Backend 역할을 아우르며 많은 Web 프로젝트들을 수행하였으며,  
