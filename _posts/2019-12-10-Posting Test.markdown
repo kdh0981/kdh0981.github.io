@@ -17,3 +17,11 @@ IDE에서 실행하면 또 그런 문제가 안생겨서... 난감했었는데, 
 
 아래 링크 4.6절 참조  
 <https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-logging>
+
+
+--- 
+\* 추가
+서비스 업데이트 진행하다가 로그가 안찍히는 문제가 다시 발생하여, 확인해보니 **'환경변수는 무시된다.'** 라는 메세지를 확인할 수 있었다.. (뭐지??)
+Springboot 에서 권장하는 방식인 `logging.config 추가` 로 우선 처리하고, 클래스 로딩 이슈 발생할 시에 환경변수를 추가하는 식으로 진행해야 할듯하다.
+> logging.config 방식으로 진행시, jar 와 같은 경로에 logback.xml 을 두면 클래스 로딩 이슈를 방지할 수 있다고 한다.  
+결국엔 Spring 시스템 메세지를 따르기로 하였다...
