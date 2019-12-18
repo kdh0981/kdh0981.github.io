@@ -1,9 +1,9 @@
+`이 블로그는 아래 테마를 커스터마이징하여 제작되었습니다.`
+
+---
+
+
 # Mediumish - Jekyll Theme
-
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![mediumish](assets/images/mediumish-jekyll-template.png)
-
 
 ### Copyright
 
