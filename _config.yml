@@ -5,7 +5,7 @@ description: "가능한 심플하게 생각을 정리하는 공간입니다."
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 # baseurl: /blog
-google_analytics: 'UA-46278016-1'
+# google_analytics: 'UA-46278016-1'
 disqus: 'kdh0981'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
