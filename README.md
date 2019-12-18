@@ -1,3 +1,8 @@
+`이 블로그는 아래 테마를 커스터마이징하여 제작되었습니다.`
+
+---
+
+
 # Mediumish - Jekyll Theme
 
 ### Copyright
