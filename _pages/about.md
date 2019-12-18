@@ -30,7 +30,7 @@ SK텔레콤 - MDP API 서비스 개발 (2019) <br>
 SK텔레콤 - BTV 컨텐츠 추천 시스템 개발 (2019) <br>
 
 <!-- portfolio img -->
-<div class="mt-5">
+<div class="mt-5 mb-5">
 <img src="{{site.baseurl}}/assets/images/neoarena.jpg" width="120" alt="" />
 <img src="{{site.baseurl}}/assets/images/fsi.jpg" width="120" alt="" />
 <img src="{{site.baseurl}}/assets/images/bmetro.jpg" width="120" alt="" />
