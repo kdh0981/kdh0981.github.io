@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p>웹서비스 만들기를 좋아하는 개발자입니다.<br>  
-SI업계에서 Front/Backend 역할을 아우르며 많은 Web 프로젝트들을 수행하였으며,<br>  
+SI업계에서 Front/Backend 역할을 아우르며 많은 프로젝트들을 수행하였으며,<br>  
 현재는 Backend 포지션에서 전문성을 키우고 있습니다.</p>
 
 <p class="mb-5">
