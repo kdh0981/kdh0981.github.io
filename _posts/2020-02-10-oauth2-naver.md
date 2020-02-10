@@ -33,29 +33,18 @@ spring:
             user_name_attribute: response
 ```
 
-위처럼 진행할 때, `OAuth2ClientPropertiesRegistrationAdapter` 에서 
-
-
+위처럼 진행할 때, `OAuth2ClientPropertiesRegistrationAdapter` 에서  
 **redirectUriTemplate cannot be empty** 라는 에러가 발생하였다.
 
 
-분명히 redirect_uri_template 을 프로퍼티에 명시하였는데?? 
-
-에러 지점을 찾아가보니 `OAuth2ClientPropertiesRegistrationAdapter` 에서
-
-
-```map.from(properties::getRedirectUri).to(builder::redirectUriTemplate);```
-
-
+분명히 redirect_uri_template 을 프로퍼티에 명시하였는데??  
+에러 지점을 찾아가보니 `OAuth2ClientPropertiesRegistrationAdapter` 에서  
+```map.from(properties::getRedirectUri).to(builder::redirectUriTemplate);```  
 이런식으로 매핑하고 있었다...
 
 
-`redirectUri` 로 매핑하면서 메세지는 왜 헷갈리게 `redirectUriTemplate` 로 띄운 것일까..
-
-
-위 설정에서 아래와 같이 수정하면 정상적으로 동작한다.
-
-
+`redirectUri` 로 매핑하면서 메세지는 왜 헷갈리게 `redirectUriTemplate` 로 띄운 것일까..  
+위 설정에서 아래와 같이 수정하면 정상적으로 동작한다.  
 ``` redirect_uri:  '{baseUrl}/{action}/oauth2/code/{registrationId}' ```
 
 
