@@ -8,9 +8,9 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>REST API 만들기를 좋아하는 5년차 Java Web 개발자입니다.<br>  
+<p>웹서비스 만들기를 좋아하는 개발자입니다.<br>  
 SI업계에서 Front/Backend 역할을 아우르며 많은 Web 프로젝트들을 수행하였으며,<br>  
-성능 뿐만 아니라, Front 개발자의 편의도 고려한 API를 개발하기 위해 항상 노력합니다.</p>
+현재는 Backend 포지션에서 전문성을 키우고 있습니다.</p>
 
 <p class="mb-5">
 <h5>projects</h5>
@@ -50,12 +50,12 @@ SK텔레콤 - BTV 컨텐츠 추천 시스템 개발 (2019) <br>
 <p>Springboot, Java, JPA/Hibernate, Jenkins, Docker, RDBMS, ElasticSearch, Grafana</p>
 <h5>cooperation-tool</h5>
 <p>bitbucket, jira, slack</p>
-<h5>keyword</h5>
+<!-- <h5>keyword</h5>
 
 <button class="btn btn-success">Spring</button> 
 <button class="btn btn-primary">JAVA</button> 
 <button class="btn btn-info">REST API</button> 
-<button class="btn btn-secondary">MSA</button>
+<button class="btn btn-secondary">MSA</button> -->
 </div>
 </div>
 </div>
