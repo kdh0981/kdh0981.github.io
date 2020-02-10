@@ -41,10 +41,8 @@ spring:
 에러 지점을 찾아가보니 `OAuth2ClientPropertiesRegistrationAdapter` 에서  
 ``` java
 map.from(properties::getRedirectUri).to(builder::redirectUriTemplate);
-```  
-이런식으로 매핑하고 있었다...
-
-
+```
+이런식으로 매핑하고 있었다...  
 `redirectUri` 로 매핑하면서 메세지는 왜 헷갈리게 `redirectUriTemplate` 로 띄운 것일까..  
 
 
