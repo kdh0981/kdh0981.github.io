@@ -2,7 +2,7 @@
 layout: post
 title:  "브라우저창 새로고침/닫기 구분하기"
 author: hyun
-categories: [Springboot, Javascript]
+categories: [springboot, javascript]
 ---
 <!-- image: {경로} -->
 <!-- rating: {0~5} -->

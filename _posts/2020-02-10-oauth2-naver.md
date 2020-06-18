@@ -2,7 +2,7 @@
 layout: post
 title:  "Springboot Naver(네아로) OAUTH2 연동시 yaml 설정 에러 해결"
 author: hyun
-categories: [Springboot]
+categories: [springboot]
 ---
 <!-- image: {경로} -->
 <!-- rating: {0~5} -->
