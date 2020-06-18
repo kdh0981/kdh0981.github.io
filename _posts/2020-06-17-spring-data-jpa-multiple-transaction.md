@@ -2,7 +2,7 @@
 layout: post
 title:  "SpringBoot JPA Multiple Datasource 환경에서 Transaction 처리"
 author: hyun
-categories: [Springboot, JPA]
+categories: [springboot, jpa]
 ---
 <!-- image: {경로} -->
 <!-- rating: {0~5} -->
